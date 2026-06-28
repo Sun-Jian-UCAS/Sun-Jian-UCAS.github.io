@@ -1,152 +1,183 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jian Sun",
+    "email": "sunjian201@mails.ucas.ac.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sun-jian-ucas.github.io",
+    "summary": "PhD applicant in Fatigue & Fracture Mechanics · M.S. from UCAS, Institute of Mechanics · First-author publications in Engineering Fracture Mechanics and International Journal of Fatigue",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "WouuqEgAAAAJ",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=WouuqEgAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sun-jian-ucas",
+        "url": "https://github.com/sun-jian-ucas"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Chinese Academy of Sciences, Institute of Mechanics",
+      "area": "Engineering Mechanics",
+      "studyType": "M.S.",
+      "startDate": "2020-09",
+      "endDate": "2023-06",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Finite Element Methods",
+        "Nonlinear Finite Element Methods",
+        "Fracture Mechanics",
+        "Numerical Analysis"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Lanzhou University of Technology",
+      "area": "Engineering Mechanics",
+      "studyType": "B.S.",
+      "startDate": "2013-09",
+      "endDate": "2017-06",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Theoretical Mechanics",
+        "Mechanics of Materials",
+        "Elastic Mechanics",
+        "Advanced Mathematics",
+        "Linear Algebra",
+        "Probability Theory"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Finite Element Analysis",
+      "level": "",
+      "keywords": ["ABAQUS"]
+    },
+    {
+      "name": "Programming & Data Analysis",
+      "level": "",
+      "keywords": ["MATLAB", "Python", "Weibull Statistics"]
+    },
+    {
+      "name": "Materials Characterization",
+      "level": "",
+      "keywords": ["SEM", "EBSD", "Micro-CT", "DIC"]
+    },
+    {
+      "name": "Core Competencies",
+      "level": "",
+      "keywords": ["Fatigue Analysis", "Fracture Mechanics", "Crack Initiation", "Microstructural Evolution"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computational Mechanics"
+    },
+    {
+      "name": "Fatigue & Fracture"
+    },
+    {
+      "name": "Additive Manufacturing"
+    },
+    {
+      "name": "Data-Driven Material Modeling"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Mechanism of artificial surface defect induced cracking for very high cycle fatigue of Ti alloys",
+      "publisher": "Engineering Fracture Mechanics",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.1016/j.engfracmech.2022.108721",
+      "summary": "First-author paper. Investigated VHCF behavior of TC17 titanium alloy with artificial surface defects, revealing synergistic effect of cyclic stress and environmental attack. Using SEM and EBSD to identify nanograin formation and twinning in α grains."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Effects of Notches and Defects on Dwell Fatigue Mechanism and Fatigue Life of Ti-6Al-4V ELI Alloy Used in Deep-Sea Submersibles",
+      "publisher": "Journal of Marine Science and Engineering",
+      "releaseDate": "2021",
+      "website": "https://doi.org/10.3390/jmse9080845",
+      "summary": "First-author paper. Examined notch sensitivity, defect tolerance, and failure mode transitions of Ti-6Al-4V ELI alloy under dwell fatigue loading for deep-sea applications."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "A method of quasi in-situ EBSD observation for microstructure and damage evolution in fatigue and dwell fatigue of Ti alloys",
+      "publisher": "International Journal of Fatigue",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.1016/j.ijfatigue.2023.107897",
+      "summary": "Co-author. Developed quasi in-situ EBSD methodology to track microstructural evolution (twinning, subgrain formation) under cyclic loading. Captured refined grain formation due to dislocation sliding and twinning."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Effects of Natural Aging and Discontinuous Cyclic Loading on High Cycle Fatigue Behavior of Steels",
+      "publisher": "Metals",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.3390/met13030511",
+      "summary": "Co-author. Investigated long-term natural aging (>20,000h) effects on fatigue life of 25CrMo4 and 30CrMnSiA steels, attributing reduction to corrosion and hydrogen action."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "University Mechanics Competition Coaching",
+      "institution": "Lanzhou University of Technology, Department of Mechanics",
+      "date": "2015-2016",
+      "role": "Tutor",
+      "description": "Assisted undergraduate students in preparing for university-level mechanics competitions. Led team to achieve First and Third Prizes in the University Mechanics Competition."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Physics and Mechanics Enthusiast Association",
+      "institution": "Lanzhou University of Technology, Department of Mechanics",
+      "date": "2015-2016",
+      "role": "President",
+      "description": "Organized academic seminars and hands-on workshops. Led the association to win the 'Top Ten Campus Associations' title."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Very High Cycle Fatigue of TC17 Titanium Alloy",
+      "category": "Fatigue & Fracture",
+      "date": "2022",
+      "url": "https://doi.org/10.1016/j.engfracmech.2022.108721",
+      "description": "First-author publication in Engineering Fracture Mechanics. Investigated artificial surface defect induced cracking mechanism in VHCF regime using SEM/EBSD."
+    },
+    {
+      "name": "Quasi In-Situ EBSD Methodology Development",
+      "category": "Experimental Mechanics",
+      "date": "2023",
+      "url": "https://doi.org/10.1016/j.ijfatigue.2023.107897",
+      "description": "Co-authored publication in International Journal of Fatigue. Developed method to track microstructural evolution (twinning, subgrain formation) during fatigue and dwell fatigue."
+    },
+    {
+      "name": "Dwell Fatigue of Ti-6Al-4V ELI for Deep-Sea Submersibles",
+      "category": "Fatigue & Fracture",
+      "date": "2021",
+      "url": "https://doi.org/10.3390/jmse9080845",
+      "description": "First-author publication in JMSE. Examined notch sensitivity, defect tolerance, and failure mode transitions in titanium alloy for deep-sea applications."
     }
   ]
 }
