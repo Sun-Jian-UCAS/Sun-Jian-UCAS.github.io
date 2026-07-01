@@ -37,3 +37,8 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* 隐藏底部的 FOLLOW 链接和版权信息 */
+.page__footer {
+  display: none !important;
+}
