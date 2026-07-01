@@ -10,7 +10,7 @@
 # BASIC SITE SETTINGS
 # ============================================================
 locale                   : "en-US"
-site_theme               : "mint"  # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+site_theme               : "default"  # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
 title                    : "Jian Sun | Fatigue & Fracture Mechanics"
 title_separator          : "-"
 name                     : &name "孙健"
