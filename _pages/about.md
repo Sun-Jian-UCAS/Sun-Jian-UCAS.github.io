@@ -42,5 +42,5 @@ I have investigated **very high cycle fatigue (VHCF)**, **dwell fatigue**, the i
 ## Contact
 
 📧 sunjian201@mails.ucas.ac.cn  
-🔗 [Google Scholar](https://scholar.google.com/) <!-- 替换为你的真实链接 -->  
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=WouuqEgAAAAJ) <!-- 替换为你的真实链接 -->  
 📄 [Download CV](/files/CV.pdf)
