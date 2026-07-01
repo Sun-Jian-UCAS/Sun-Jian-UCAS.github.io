@@ -38,24 +38,24 @@ author:
   # -------- 学术平台（Google Scholar 已配置） --------
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=WouuqEgAAAAJ"  # ✅ 已改为你的 Google Scholar
   orcid            : ""  # 建议去 https://orcid.org 注册一个并填在这里
-  researchgate     : ""  # 如果有 ResearchGate 账号可填
-  academia         : ""
-  arxiv            : ""
-  inspire-hep      : ""
-  impactstory      : ""
-  semantic         : ""
-  ssrn             : ""
-  pubmed           : ""
-  scopus           : ""
-  zotero           : ""
+  #researchgate     : ""  # 如果有 ResearchGate 账号可填
+  #academia         : ""
+  #arxiv            : ""
+  #inspire-hep      : ""
+  #impactstory      : ""
+  #semantic         : ""
+  #ssrn             : ""
+  #pubmed           : ""
+  #scopus           : ""
+  #zotero           : ""
 
   # -------- GitHub 与代码 --------
   github           : "sun-jian-ucas"  # ✅ 已改为你的 GitHub 用户名
-  bitbucket        : ""
-  codepen          : ""
-  dribbble         : ""
-  kaggle           : ""
-  stackoverflow    : ""
+  #bitbucket        : ""
+  #codepen          : ""
+  #dribbble         : ""
+  #kaggle           : ""
+  #stackoverflow    : ""
 
   # -------- 社交媒体（可选） --------
   #bluesky          : ""
