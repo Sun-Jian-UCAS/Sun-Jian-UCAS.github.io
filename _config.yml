@@ -58,15 +58,15 @@ author:
   stackoverflow    : ""
 
   # -------- 社交媒体（可选） --------
-  bluesky          : ""
-  linkedin         : ""  # 如果有 LinkedIn 可填
-  mastodon         : ""
-  medium           : ""
-  twitter          : ""
-  zhihu            : ""
-  weibo            : ""
-  instagram        : ""
-  facebook         : ""
+  #bluesky          : ""
+  #linkedin         : ""  # 如果有 LinkedIn 可填
+  #mastodon         : ""
+  #medium           : ""
+  #twitter          : ""
+  #zhihu            : ""
+  #weibo            : ""
+  #instagram        : ""
+  #facebook         : ""
 
 # ============================================================
 # PUBLICATION CATEGORIES
